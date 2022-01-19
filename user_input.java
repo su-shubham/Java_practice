@@ -15,9 +15,7 @@ class user_input
   String college=user.nextLine();
   System.out.println("Name: "+name);
   System.out.println("Id: "+id);
-   System.out.println("College Name: "+college);
-   System.out.println("Thankyou!");
-
-    
+  System.out.println("College Name: "+college);
+  System.out.println("Thankyou!");
   }
 }
