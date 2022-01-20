@@ -4,7 +4,9 @@
 
 ### Prequisties:
 >##### Install Any Texteditor Or IDE.
+>##### Install JDK.....
 >##### If you are using Any Texteditor use Command Line to Compile and run Java.
+>
 
 ## **Writing Our First Java Program** 
 
@@ -20,3 +22,5 @@
 ![run](https://user-images.githubusercontent.com/75021117/150137001-4b7c8749-5233-4ffc-84c2-0996d1cd5af1.png)
 
 ## **Yeah! We done With First Program In Java**.:tada:
+
+>### Note:****Installing JDK Is Important.****
