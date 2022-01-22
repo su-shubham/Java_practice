@@ -4,7 +4,7 @@
 
 ### Prequisties:
 >##### Install Any Texteditor Or IDE.
->##### Install JDK.....
+>##### Install JDK.....Any version
 >##### If you are using Any Texteditor use Command Line to Compile and run Java.
 >
 
