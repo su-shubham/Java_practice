@@ -3,9 +3,9 @@
 ## To Start With Java Programming Language :
 
 ### Prequisties:
->##### Install Any Texteditor Or IDE.
->##### Install JDK.....Any version
->##### If you are using Any Texteditor use Command Line to Compile and run Java.
+>#### Install Any Texteditor Or IDE.
+>#### Install JDK
+>#### If you are using Any Texteditor use Command Line to Compile and run Java.
 >
 
 ## **Writing Our First Java Program** 
